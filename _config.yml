@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Linh Do"
+title                    : "Dat Do"
 title_separator          : "-"
-name                     : &name "Linh Do"
-description              : &description "PhD Candidate in Applied Mathematics"
-url                      : https://Ldo3.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Dat Do"
+description              : &description "PhD Candidate in Statistics"
+url                      : https://dodat619.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ldo3/Ldo3.github.io"
+repository               : "dodat619/dodat619.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,17 +22,17 @@ repository               : "Ldo3/Ldo3.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Linh Do"
-  pronouns         : "she/her"  
-  bio              : "PhD Candidate in Applied Mathematics"
+  name             : "Dat Do"
+  pronouns         : "he/him"  
+  bio              : "PhD Candidate in Statistics"
   location         : # "Earth"
-  employer         : "Tulane University"
+  employer         : "University of Michigan"
   uri              : # URL
-  email            : "dothuylinh154@gmail.com" 
+  email            : "dodat@umich.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    :  "https://scholar.google.com/citations?user=41vdS9IAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Ldo3"
+  github           : "dodat619"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "linh-do-16a004288"
+  linkedin         : #"linh-do-16a004288"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

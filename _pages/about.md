@@ -1,18 +1,33 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I’m Thuy Linh Do (you can call me Linh), a PhD candidate in Applied Mathematics in the Department of Mathematics at Tulane University, New Orleans, Louisiana. I am advised by Professor [Scott A. McKinley](https://www.stochastics-lab.net/). My research focuses on particle tracking, changepoint detection algorithms, Bayesian statistics, model selection, and mixtures of models, with the goal of advancing innovative methods in applied mathematics and statistics.
+Hello. I am currently a Ph.D. candidate in Statistics at the University of Michigan, where I am
+fortunate to be advised by Professor [Jonathan Terhorst](https://jthlab.github.io/) and Professor [Long Nguyen](https://dept.stat.lsa.umich.edu/~xuanlong/).
+Before coming to the University of Michigan, I graduated as the valedictorian of Hanoi
+University of Science, class of 2019.
+
+Here is a current version of my CV: 
+
+## Research Interest
+
+A central theme of my research focuses on:
+
+* Hierarchical Models: Identifiability, Statistical Efficiency, and Model Selection
+Methods
+* Population genetics and Phylogenetics
+* Statistical Optimal Transport
+
+## Selected Preprints and Publications 
+
+* [Dendrogram of mixing measures: Hierarchical clustering and model selection for
+finite mixture models.](https://arxiv.org/pdf/2403.01684) *Under review with JASA*. 
+	**Dat Do**, Linh Do, Scott McKinley, Jonathan Terhorst, XuanLong Nguyen
 
 
-As an educator, I firmly believe that every student can achieve fluency in the language of mathematics and uncover the profound beauty and power it embodies. I strive to foster an inclusive and engaging learning environment where curiosity and exploration are celebrated.
 
-
-Outside of academia, I’m passionate about music and singing. I often find intriguing connections between the harmonies of music and the structures of mathematics and statistics, which inspire both my creative and analytical pursuits.
-
-Feel free to explore my work or reach out—I’d love to connect!
