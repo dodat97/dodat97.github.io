@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am currently a Ph.D. candidate in Statistics at the University of Michigan, where I am
+Hello, I am a William H. Kruskal Instructor at the Department of Statistics, [University of Chicago](https://stat.uchicago.edu/), where I am fortunate to work with Professor [Matthew Stephens](https://stephenslab.uchicago.edu/). I obtained my doctoral degree in Statistics at the University of Michigan, where I am
 fortunate to be advised by Professor [Jonathan Terhorst](https://jthlab.github.io/) and Professor [Long Nguyen](https://dept.stat.lsa.umich.edu/~xuanlong/).
 Before coming to the University of Michigan, I graduated as the valedictorian of Hanoi
 University of Science, class of 2019.
 
-Here is a current version of my [CV](https://dodat619.github.io/files/CVDat.pdf).
+Here is a current version of my [CV](https://dodat97.github.io/files/CVDat.pdf).
 
 ## Research Interest
 
@@ -20,10 +20,12 @@ A central theme of my research focuses on:
 
 * Hierarchical Models: Identifiability, Statistical Efficiency, and Model Selection
 Methods
-* Population genetics and Phylogenetics
+* Statistical Genetics, Population genetics, and Phylogenetics
 * Statistical Optimal Transport
 
-I study identifiability and parameter estimation for latent variable models such as mixture and admixture models with unknown number of components using optimal transport, empirical process theory, and Bayesian asymptotic theory. From that, we provide rigorous model selection methods for those models. I am also passionate about developing interpretable and computationally efficient hierarchical Bayesian methods with applications in genetics. 	
+I study identifiability and parameter estimation for latent variable models such as mixture and admixture models with unknown number of components using optimal transport, empirical process theory, and Bayesian asymptotic theory. From that, my collaborators and I provide rigorous model selection methods for those models. I am also passionate about developing interpretable and computationally efficient hierarchical Bayesian methods with applications in genetics. 	
+
+From Summer 2025, I start working on GWAS with a focus in fine-mapping.
 
 ## Preprints and Publications 
 \* denotes equal contributions.
@@ -32,7 +34,7 @@ I study identifiability and parameter estimation for latent variable models such
   **Dat Do**, Sunrit Chakraborty, Jonathan Terhorst, XuanLong Nguyen.
 
 - [Dendrogram of mixing measures: Hierarchical clustering and model selection for
-finite mixture models.](https://arxiv.org/pdf/2403.01684) *under review with Journal of the American Statistical Association*.  
+finite mixture models.](https://arxiv.org/pdf/2403.01684) *under review with Biometrika*.  
   **Dat Do**, Linh Do, Scott McKinley, Jonathan Terhorst, XuanLong Nguyen.
 
 - [Functional optimal transport: map estimation and domain adaptation for functional
