@@ -12,9 +12,9 @@ title                    : "Dat Do"
 title_separator          : "-"
 name                     : &name "Dat Do"
 description              : &description "PhD Candidate in Statistics"
-url                      : https://dodat619.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://dodat97.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dodat619/dodat619.github.io"
+repository               : "dodat97/dodat97.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Dat Do"
   pronouns         : "he/him"  
-  bio              : "William H. Kruskal Instructor in Statistics"
+  bio              : "Kruskal Instructor in Statistics"
   location         : # "Earth"
   employer         : "University of Chicago"
   uri              : # URL
