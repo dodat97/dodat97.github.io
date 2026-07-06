@@ -46,6 +46,7 @@ finite mixture models.](https://arxiv.org/pdf/2403.01684) *Under review*.
   **Dat Do**, Linh Do, Scott McKinley, Jonathan Terhorst, XuanLong Nguyen.
 
 - [Strong identifiably and parameter learning in regression with heterogeneous response.](https://arxiv.org/pdf/2212.04091) *Electron. J. Statist.* 19 (1) 131 - 203, 2025.
+
   **Dat Do**, Linh Do, XuanLong Nguyen.
 
 - [Functional optimal transport: map estimation and domain adaptation for functional
