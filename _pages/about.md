@@ -45,9 +45,10 @@ I study identifiability and parameter estimation for latent variable models such
 finite mixture models.](https://arxiv.org/pdf/2403.01684) *Under review*.  
   **Dat Do**, Linh Do, Scott McKinley, Jonathan Terhorst, XuanLong Nguyen.
 
-- [Strong identifiably and parameter learning in regression with heterogeneous response.](https://arxiv.org/pdf/2212.04091) *Electron. J. Statist.* 19 (1) 131 - 203, 2025.
-
+- [Strong identifiably and parameter learning in regression with heterogeneous response.](https://arxiv.org/pdf/2212.04091) *Electron. J. Statist.* 19 (1) 131 - 203, 2025.  
   **Dat Do**, Linh Do, XuanLong Nguyen.
+
+  
 
 - [Functional optimal transport: map estimation and domain adaptation for functional
 data.](https://www.jmlr.org/papers/volume25/22-0217/22-0217.pdf) *Journal of Machine Learning Research (JMLR) 2024*.  
