@@ -28,10 +28,10 @@ I study identifiability and parameter estimation for latent variable models such
 \* denotes equal contributions.
 
 - [Model selection in ADMIXTURE can be inconsistent: proof of the 𝐾=2 phenomenon
-](https://pmc.ncbi.nlm.nih.gov/articles/PMC13001503) *Under review*.
+](https://pmc.ncbi.nlm.nih.gov/articles/PMC13001503) *Under review*.\n
  **Dat Do**, Jonathan Terhorst.
 
-- [Change-in-velocity detection for multidimensional data](https://arxiv.org/abs/2510.27150) *Under review*.
+- [Change-in-velocity detection for multidimensional data](https://arxiv.org/abs/2510.27150) *Under review*.\n
   Linh Do, **Dat Do**, Keisha J. Cook, Scott A. McKinley.
 
 - [Dirichet moment tensors and the correspondence between admixture and mixture of product models.](https://www.arxiv.org/abs/2509.25441) *Under review*.  
