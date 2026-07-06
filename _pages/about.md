@@ -27,13 +27,13 @@ I study identifiability and parameter estimation for latent variable models such
 ## Preprints and Publications 
 \* denotes equal contributions.
 
-- [Model selection in ADMIXTURE can be inconsistent: proof of the 𝐾=2 phenomenon
+- [Model selection in ADMIXTURE can be inconsistent: proof of the 𝐾=2 phenomenon.
 ](https://pmc.ncbi.nlm.nih.gov/articles/PMC13001503) *Under review*.  
   **Dat Do**, Jonathan Terhorst.
 
 
 
-- [Change-in-velocity detection for multidimensional data](https://arxiv.org/abs/2510.27150) *Under review*.  
+- [Change-in-velocity detection for multidimensional data.](https://arxiv.org/abs/2510.27150) *Under review*.  
   Linh Do, **Dat Do**, Keisha J. Cook, Scott A. McKinley.
 
   
