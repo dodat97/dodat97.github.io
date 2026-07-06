@@ -24,24 +24,30 @@ Methods
 
 I study identifiability and parameter estimation for latent variable models such as mixture and admixture models with an unknown number of components using optimal transport, empirical process theory, and Bayesian asymptotic theory. From that, my collaborators and I provide rigorous model selection methods for those models. I am also passionate about developing interpretable and computationally efficient hierarchical Bayesian methods with applications in genetics. 	
 
-From Summer 2025, I start working on GWAS with a focus on fine-mapping.
-
 ## Preprints and Publications 
 \* denotes equal contributions.
 
-- [Dirichet moment tensors and the correspondence between admixture and mixture of product models.](https://www.arxiv.org/abs/2509.25441) *submitted to the Annals of Statistics*.  
+- [Model selection in ADMIXTURE can be inconsistent: proof of the 𝐾=2 phenomenon
+](https://pmc.ncbi.nlm.nih.gov/articles/PMC13001503) *Under review*.
+**Dat Do**, Jonathan Terhorst.
+
+- [Change-in-velocity detection for multidimensional data](https://arxiv.org/abs/2510.27150) *Under review*.
+  Linh Do, **Dat Do**, Keisha J. Cook, Scott A. McKinley.
+
+- [Dirichet moment tensors and the correspondence between admixture and mixture of product models.](https://www.arxiv.org/abs/2509.25441) *Under review*.  
   **Dat Do**, Sunrit Chakraborty, Jonathan Terhorst, XuanLong Nguyen.
 
 - [Dendrogram of mixing measures: Hierarchical clustering and model selection for
-finite mixture models.](https://arxiv.org/pdf/2403.01684) *to be submitted to Biometrika*.  
+finite mixture models.](https://arxiv.org/pdf/2403.01684) *Under review*.  
   **Dat Do**, Linh Do, Scott McKinley, Jonathan Terhorst, XuanLong Nguyen.
+
+- [Strong identifiably and parameter learning in regression with heterogeneous response.](https://arxiv.org/pdf/2212.04091) *Electron. J. Statist.* 19 (1) 131 - 203, 2025.
+  **Dat Do**, Linh Do, XuanLong Nguyen.
 
 - [Functional optimal transport: map estimation and domain adaptation for functional
 data.](https://www.jmlr.org/papers/volume25/22-0217/22-0217.pdf) *Journal of Machine Learning Research (JMLR) 2024*.  
   Jiacheng Zhu\*, Aritra Guha\*, **Dat Do\***, Mengdi Xu, XuanLong Nguyen, Ding Zhao.
 
-- [Strong identifiably and parameter learning in regression with heterogeneous response.](https://arxiv.org/pdf/2212.04091) *Under major revision with Electronic Journal of Statistics*.  
-  **Dat Do**, Linh Do, XuanLong Nguyen.
 
 - [Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models.](https://openreview.net/pdf?id=w3ghbKBJg4) *NeurIPS 2023*.  
   **Dat Do\***, Huy Nguyen\*, Khai Nguyen, Nhat Ho.
